@@ -1,10 +1,11 @@
 # An Experimental Platform for Exploring Resonance, Nonlinear Dynamics, and Chaos in RLC Circuits
-A compact, low-cost, audio-based hardware platform for hands-on experiments in linear and nonlinear physics.  
-The system allows students and researchers to explore resonance phenomena, nonlinear effects, and chaotic dynamics using a simple RLC circuit and a standard computer sound card.
 
-<p align="center">
-  <img src="panel1.jpg" width="650">
-</p>
+A compact, low-cost experimental system for studying linear, nonlinear, and chaotic oscillations.
+
+<div align="center">
+  <img src="images/panel1.jpg" width="650">
+</div>
+
 
 ---
 ## 🎯 Project Overview
