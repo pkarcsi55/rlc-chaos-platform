@@ -6,8 +6,6 @@ The system allows students and researchers to explore resonance phenomena, nonli
   <img src="panel1.jpg" width="650">
 </p>
 
-## 🎯 Project Overview
-
 ---
 ## 🎯 Project Overview
 This project presents a portable experimental platform designed for:
