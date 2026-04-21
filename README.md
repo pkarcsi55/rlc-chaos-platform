@@ -6,6 +6,9 @@ A compact, low-cost experimental system for studying linear, nonlinear, and chao
   <img src="images/panel1.jpg" width="650">
 </div>
 
+<p align="center">
+  <i>Figure 1 – Chaotic RLC demonstration board</i>
+</p>
 
 ---
 ## 🎯 Project Overview
