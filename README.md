@@ -1,3 +1,7 @@
+**Luca Major¹, Károly Piláth²**  
+
+¹ Svetits Catholic School, Hungary  
+² ELTE Trefort Ágoston Practice Secondary School, Budapest, Hungary
 # An Experimental Platform for Exploring Resonance, Nonlinear Dynamics, and Chaos in RLC Circuits
 
 A compact, low-cost experimental system for studying linear, nonlinear, and chaotic oscillations.
