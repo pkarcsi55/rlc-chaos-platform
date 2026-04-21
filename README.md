@@ -48,12 +48,13 @@ The circuit is composed of the following functional blocks:
 
 ## 🧪 Operating Modes
 
+## Operating Modes
+
 | Mode | Configuration | Observed Behavior |
-|------|-------------|------------------|
+|------|---------------|------------------|
 | Linear | SW2 OFF | Classical RLC oscillations |
 | Nonlinear | SW2 ON | Distorted oscillations |
 | Chaotic | SW2 ON + proper excitation | Chaotic dynamics |
-
 ---
 
 ## 📐 Hardware Files
