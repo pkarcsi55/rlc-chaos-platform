@@ -116,6 +116,35 @@ simulations: [rlc_series_falstad.txt](simulations/rlc_series_falstad.txt)
 
 screenshote: [rlc_series_falstad.png](simulations/rlc_series_falsta.png)
 
+### COLAB Features
+
+- Time-domain analysis: \( V_C(t) \)
+- Phase-space trajectories: \( V_C \) vs \( I_L \)
+- Poincaré section (periodic sampling)
+
+---
+
+## 📊 Physical interpretation
+
+The model describes a driven nonlinear RLC system:
+
+- \( x \) → capacitor voltage (dimensionless)
+- \( y \) → inductor current (dimensionless)
+
+The scaling to physical units is performed using:
+
+- characteristic impedance:  
+  \[
+  \rho = \sqrt{\frac{L}{C}}
+  \]
+
+- voltage scaling based on diode threshold
+
+This allows direct comparison with experimental measurements.
+
+---
+
+
 
 
 
