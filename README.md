@@ -77,6 +77,7 @@ The circuit is composed of the following functional blocks:
 All hardware design files are available in the repository:
 
 - 📄 Schematic: [schematic.pdf](hardware/Schematic_chaos_RLC.pdf)
+- 📄 Schematic EasyEda: [schematic.pdf](hardware/SCH_chaotic.json)
 - 📋 Bill of Materials: [BOM.md](hardware/BOM.md)
 - 🧩 PCB Layout: [board.png](hardware/PCB/board.png)
 - 🏭 Gerber Files: [gerber.zip](hardware/PCB/Gerber_chaotic_2025_0807.zip)
