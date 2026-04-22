@@ -81,7 +81,7 @@ All hardware design files are available in the repository:
 - 📋 Bill of Materials: [BOM.md](hardware/BOM.md)
 - 🧩 PCB Layout: [board.png](hardware/PCB/board.png)
 - 🏭 Gerber Files: [gerber.zip](hardware/PCB/Gerber_chaotic_2025_0807.zip)
-- 🔧 Assembly Guide: [assembly.png](hardware/pcb/assembly.png)
+- 🔧 Assembly Guide: [assembly.md](hardware/ASSEMBLY.md)
 
 
 
