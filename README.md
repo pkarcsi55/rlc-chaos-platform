@@ -82,15 +82,36 @@ All hardware design files are available in the repository:
 - 🧩 PCB Layout: [board.png](hardware/PCB/board.png)
 - 🏭 Gerber Files: [gerber.zip](hardware/PCB/Gerber_chaotic_2025_0807.zip)
 - 🔧 Assembly Guide: [assembly.md](hardware/ASSEMBLY.md)
-- ## 🌐 Falstad simulation
+# RLC Chaos Platform
+
+This repository presents an educational and experimental framework for exploring
+linear and nonlinear dynamics in RLC circuits using:
+
+- interactive simulation (Falstad)
+- numerical modelling (Python / Google Colab)
+- real-world measurements (sound card-based acquisition)
+
+---
+
+## 🔬 Project overview
+
+The system is based on a driven RLC circuit that can exhibit complex dynamics,
+including nonlinear behaviour and phase-space structures.
+
+Students can explore the same physical system through three complementary approaches:
+
+1. **Interactive simulation** (Falstad)
+2. **Numerical model** (Duffing-type equation)
+3. **Real measurement** (audio interface)
+---
+## ⚡ Falstad simulation
+
 This circuit can be explored using the Falstad Circuit Simulator.
 1. Open https://falstad.com/circuit/
 2. File → Import From Text
 3. Paste the contents of:
    simulations/rlc_series_falstad.txt
-   
 simulations: [rlc_series_falstad.txt](simulations/rlc_series_falstad.txt)
-
 screenshote: [rlc_series_falstad.png](simulations/rlc_series_falsta.png)
 
 
