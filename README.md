@@ -82,6 +82,14 @@ All hardware design files are available in the repository:
 - 🧩 PCB Layout: [board.png](hardware/PCB/board.png)
 - 🏭 Gerber Files: [gerber.zip](hardware/PCB/Gerber_chaotic_2025_0807.zip)
 - 🔧 Assembly Guide: [assembly.md](hardware/ASSEMBLY.md)
+- ## 🌐 Falstad simulation
+This circuit can be explored using the Falstad Circuit Simulator.
+1. Open https://falstad.com/circuit/
+2. File → Import From Text
+3. Paste the contents of:
+   simulations/rlc_series_falstad.txt
+simulations/rlc_series_falstad.txt: [rlc_series_falstad.txt](simulations/rlc_series_falstad.txt)
+screenshote: [rlc_series_falstad.png](simulations/rlc_series_falstad.png)
 
 
 
