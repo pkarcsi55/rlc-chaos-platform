@@ -88,7 +88,9 @@ This circuit can be explored using the Falstad Circuit Simulator.
 2. File → Import From Text
 3. Paste the contents of:
    simulations/rlc_series_falstad.txt
-simulations/rlc_series_falstad.txt: [rlc_series_falstad.txt](simulations/rlc_series_falstad.txt)
+   
+simulations: [rlc_series_falstad.txt](simulations/rlc_series_falstad.txt)
+
 screenshote: [rlc_series_falstad.png](simulations/rlc_series_falstad.png)
 
 
