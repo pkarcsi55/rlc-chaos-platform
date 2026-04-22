@@ -75,7 +75,6 @@ The circuit is composed of the following functional blocks:
 ## 📐 Hardware Files
 
 All hardware design files are available in the repository:
-## 📐 Hardware Files
 
 - 📄 Schematic: [schematic.pdf](hardware/Schematic_chaos_RLC.pdf)
 - 📋 Bill of Materials: [BOM.md](hardware/BOM.md)
