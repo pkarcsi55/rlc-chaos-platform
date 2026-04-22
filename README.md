@@ -80,7 +80,7 @@ All hardware design files are available in the repository:
 - 📄 Schematic: [schematic.pdf](hardware/Schematic_chaos_RLC.pdf)
 - 📋 Bill of Materials: [BOM.md](hardware/BOM.md)
 - 🧩 PCB Layout: [board.png](hardware/pcb/board.png)
-- 🏭 Gerber Files: [gerber.zip](hardware/pcb/gerber.zip)
+- 🏭 Gerber Files: [gerber.zip](hardware/PCB/Gerber_chaotic_2025_0807.zip)
 - 🔧 Assembly Guide: [assembly.png](hardware/pcb/assembly.png)
 
 
