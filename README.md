@@ -76,3 +76,5 @@ The circuit is composed of the following functional blocks:
 
 All hardware design files are available in the repository:
 
+- 📋 Bill of Materials: [BOM.md](hardware/BOM.md)
+
