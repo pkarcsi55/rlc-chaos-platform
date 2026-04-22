@@ -91,7 +91,7 @@ This circuit can be explored using the Falstad Circuit Simulator.
    
 simulations: [rlc_series_falstad.txt](simulations/rlc_series_falstad.txt)
 
-screenshote: [rlc_series_falstad.png](simulations/rlc_series_falstad.png)
+screenshote: [rlc_series_falstad.png](simulations/rlc_series_falsta.png)
 
 
 
