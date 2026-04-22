@@ -117,7 +117,7 @@ simulations: [rlc_series_falstad.txt](simulations/rlc_series_falstad.txt)
 screenshote: [rlc_series_falstad.png](simulations/rlc_series_falsta.png)
 
 ### Clab Features
-Colab script: [duffing_rlc_colab.py](noteboks/duffing_rlc_colab.py)
+Colab script: [duffing_rlc_colab.py](notebooks/duffing_rlc_colab.py)
 - Time-domain analysis: \( V_C(t) \)
 - Phase-space trajectories: \( V_C \) vs \( I_L \)
 - Poincaré section (periodic sampling)
