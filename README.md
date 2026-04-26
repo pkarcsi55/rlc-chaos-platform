@@ -80,7 +80,7 @@ All hardware design files are available in the repository:
 - 📄 Schematic EasyEda: [SCH_chaotic.json](hardware/SCH_chaotic.json)
 - 📋 Bill of Materials: [BOM.md](hardware/BOM.md)
 - 🧩 PCB Layout: [board.png](hardware/PCB/board.png)
-- 🏭 Gerber Files: [gerber.zip](hardware/PCB/Gerber_chaotic_2025_0807.zip)
+- 🏭 Gerber Files: [gerber.zip](hardware/PCB/chaotic_gerber.zip)
 - 🔧 Assembly Guide: [assembly.md](hardware/ASSEMBLY.md)
 # RLC Chaos Platform
 
