@@ -23,6 +23,7 @@
 | Switches | Switch | On/Off | SW1 | 1 | Power |
 | Switches | Switch | Chaos ON | SW2 | 1 | Nonlinearity |
 | Switches | Switch | Lx ON/OFF | SW3 | 1 | LC control |
+| Switches | Switch | Uc/Ug | SW4 | 1 | Out control |
 | Indicators | LED | Red LED | LED1 | 1 | Power indicator |
 | Headers | Pin Header | 2-pin | J1, J2 | 2 | Jumpers |
 | Headers | Pin Header | 1-pin | J3, J4, J5, J6 | 4 | Test points |
